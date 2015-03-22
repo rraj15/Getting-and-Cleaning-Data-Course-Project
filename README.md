@@ -7,11 +7,11 @@ This repository contains "run_analysis.R" file which does the following:
 - Appropriately labels the data set with descriptive variable names. 
 - From the data set in step above, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-**To run this file**
+**To run this R script**
 - First download the data file from below and unzip it in a local directory
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 - Download "run_analysis.R" file in the same directory as the data set above
 - Source and run "run_analysis.R" in RStudio or RConsole
-- The output will be tidyAverageData.txt file with the average of each variable for each activity and each subject
+- The output will be tidyDataAverage.txt file with the average of each variable for each activity and each subject
 
 
